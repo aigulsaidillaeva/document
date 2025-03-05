@@ -343,10 +343,11 @@ const _TOTAL_ROUTES = [
     "/docs/guides/tech/with-nextjs",
     "/docs/",
     "/docs/reference",
+    "/docs/faq",
 ];
 // from: "/en/docs/*" to "/docs/*"
 const I18N_REDIRECTS = _TOTAL_ROUTES.map((route) => ({
-    from: route.replace("/docs", "/en/docs"),
+    from: route.replace("/docs", "/ru/docs"),
     to: route,
 }));
 // NOTE: temp redirects, resolve later

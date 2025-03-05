@@ -13,105 +13,51 @@ export type Company = {
  */
 export const companies: Company[] = [
     {
-        url: "https://redmadrobot.com/",
-        src: "red_mad_robot.png",
+        url: "https://balalyk.edu.gov.kg/",
+        src: "balaluk.svg",
         alt: "red_mad_robot",
     },
     {
-        url: "https://kode.ru/",
-        src: "kode.png",
+        url: "https://kundoluk.edu.gov.kg/",
+        src: "kundoluk.png",
         alt: "KODE",
     },
     {
-        url: "https://uptarget.co/",
-        src: "uptarget.png",
-        alt: "Uptarget",
+        url: "https://2020.edu.gov.kg/",
+        src: "vuz.png",
+        alt: "vuz",
     },
     {
-        url: "https://www.fxdd.com/",
-        src: "fxdd.svg",
+        url: "https://ibilim.edu.gov.kg/",
+        src: "ibilim.png",
         alt: "FXDD",
     },
     {
-        url: "https://foxford.ru/",
-        src: "foxford.svg",
-        alt: "Foxford",
+        url: "https://asula.edu.gov.kg/",
+        src: "asula.png",
+        alt: "asula",
     },
     {
-        url: "https://vigo.ru/",
-        src: "vigo.png",
-        alt: "Vigo",
+        url: "https://open.edu.gov.kg/",
+        src: "open.svg",
+        alt: "open",
     },
     {
-        url: "https://space307.com/",
-        src: "space307.svg",
-        alt: "~/.space307",
+        url: "https://ibilim.edu.gov.kg/",
+        src: "ibilim.png",
+        alt: "FXDD",
     },
     {
-        url: "https://pmp-tech.ru/",
-        src: "pmp-tech.png",
-        alt: "PMP Tech",
+        url: "https://asula.edu.gov.kg/",
+        src: "asula.png",
+        alt: "asula",
     },
     {
-        url: "https://www.aligntech.com/",
-        src: "align.svg",
-        alt: "Align",
+        url: "https://open.edu.gov.kg/",
+        src: "open.svg",
+        alt: "open",
     },
-    {
-        url: "https://smile2impress.com/",
-        src: "impress.svg",
-        alt: "Impress",
-    },
-    {
-        url: "https://pochta.tech/",
-        src: "pochtatech.svg",
-        alt: "Почтатех",
-    },
-    {
-        url: "https://befree.ru/",
-        src: "befree.svg",
-        alt: "befree",
-    },
-    {
-        url: "https://www.softcery.com/",
-        src: "softcery.png",
-        alt: "Softcery",
-    },
-    {
-        url: "https://dodo.dev/",
-        src: "dodo.png",
-        alt: "Dodo Engineering",
-    },
-    {
-        url: "https://food.ru/",
-        src: "food_ru.svg",
-        alt: "Food.ru",
-    },
-    {
-        url: "https://lad24.ru/",
-        src: "ladIT.svg",
-        alt: "Lad IT",
-    },
-    {
-        url: "https://www.x5.ru/",
-        src: "x5_digital.png",
-        alt: "X5 Digital",
-    },
-    {
-        url: "https://samokat.tech/",
-        src: "samokat.svg",
-        alt: "Samokat.tech",
-    },
-    {
-        url: "https://express24.uz/",
-        src: "express24.svg",
-        alt: "Express24.uz",
-    },
-    {
-        url: "https://blindtyping.com/",
-        src: "blindtyping.svg",
-        alt: "Blindtyping",
-    },
+   
 ];
 
 const japaneseCompanies: Company[] = [

@@ -35,7 +35,7 @@ export const Companies = () => {
                     </a>
                 ))}
             </Marquee>
-            <span className={styles.addMe}>
+            {/* <span className={styles.addMe}>
                 {translate({ id: "pages.home.companies.add_me" })}{" "}
                 <a
                     href="https://github.com/feature-sliced/documentation/issues/131"
@@ -44,7 +44,7 @@ export const Companies = () => {
                 >
                     {translate({ id: "pages.home.companies.tell_us" })}
                 </a>
-            </span>
+            </span> */}
         </Section>
     );
 };

@@ -16,6 +16,6 @@ module.exports = {
     YOUTUBE: "https://www.youtube.com/c/FeatureSlicedDesign",
     TWITTER: "https://twitter.com/feature_sliced",
     OPEN_COLLECTIVE: "https://opencollective.com/feature-sliced",
-    DEFAULT_LOCALE: "en",
+    DEFAULT_LOCALE: "ru",
     CATEGORIES,
 };

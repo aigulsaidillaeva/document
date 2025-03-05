@@ -48,13 +48,13 @@ const footer = {
             ],
         },
     ],
-    logo: {
-        alt: "Feature-Sliced Design - Architectural methodology for frontend projects",
-        src: "img/brand/logo-primary.png",
-        href: GITHUB_ORG,
-        width: 160,
-    },
-    copyright: `Copyright © ${new Date().getFullYear()}  Feature-Sliced Design`,
+    // logo: {
+    //     alt: "Feature-Sliced Design - Architectural methodology for frontend projects",
+    //     src: "img/brand/logo-primary.png",
+    //     href: GITHUB_ORG,
+    //     width: 160,
+    // },
+    // copyright: `Copyright © ${new Date().getFullYear()}  `,
 };
 
 module.exports = { footer };

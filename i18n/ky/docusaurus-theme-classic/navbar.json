@@ -1,0 +1,50 @@
+{
+    "title": {
+        "message": "",
+        "description": "The title in the navbar"
+    },
+    "item.label.🛠 Examples": {
+        "message": "🏬 Башка",
+        "description": "Navbar item with label Examples"
+    },
+    "item.label.📖 Docs": {
+        "message": "🏢 Бала бакча",
+        "description": "Navbar item with label Docs"
+    },
+    "item.label.🔎 Intro": {
+        "message": "🔎 Киришүү",
+        "description": "Navbar item with label Intro"
+    },
+    "item.label.🚀 Get Started": {
+        "message": "🚀 Баштоо",
+        "description": "Navbar item with label Get Started"
+    },
+    "item.label.🧩 Concepts": {
+        "message": "🧩 Концепциялар",
+        "description": "Navbar item with label Concepts"
+    },
+    "item.label.🎯 Guides": {
+        "message": "🎯 Нускамалар",
+        "description": "Navbar item with label Guides"
+    },
+    "item.label.📚 Reference": {
+        "message": "📚 Маалымат",
+        "description": "Navbar item with label Reference"
+    },
+    "item.label.🍰 About": {
+        "message": "🍰 Методология жөнүндө",
+        "description": "Navbar item with label About"
+    },
+    "item.label.💫 Community": {
+        "message": "🏫 Мектеп",
+        "description": "Navbar item with label Community"
+    },
+    "item.label.❔ Help": {
+        "message": "❔ Жардам",
+        "description": "Navbar item with label Help"
+    },
+    "item.label.📝 Blog": {
+        "message": "🏬 Кесиптик билим берүү",
+        "description": "Navbar item with label Blog"
+    }
+}

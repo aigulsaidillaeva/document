@@ -1,38 +1,38 @@
 {
     "pages.home.features.title": {
-        "message": "Преимущества",
+        "message": "Государственные услуги и сервисы для жизненных ситуаций",
         "description": "Features"
     },
     "pages.home.features.logic.title": {
-        "message": "Явная бизнес-логика",
+        "message": "Детский сад",
         "description": "Feature title"
     },
     "pages.home.features.logic.description": {
-        "message": "Архитектуру легко осваивать, поскольку она состоит из доменных модулей",
+        "message": "Информационная система по приему детей в детские сады.",
         "description": "Feature description"
     },
     "pages.home.features.adaptability.title": {
-        "message": "Адаптивность",
+        "message": "Школа ",
         "description": "Feature title"
     },
     "pages.home.features.adaptability.description": {
-        "message": "Компоненты архитектуры можно гибко заменять, добавлять под новые условия",
+        "message": "Информационная система по зачислению детей в школы в КР. ",
         "description": "Feature description"
     },
     "pages.home.features.debt.title": {
-        "message": "Технический долг",
+        "message": "Профессионально-техническое училище",
         "description": "Feature title"
     },
     "pages.home.features.debt.description": {
-        "message": "Каждый модуль можно независимо модифицировать / переписать без сайд-эффектов",
+        "message": "Информационная система «Абитуриент Online – БКББ» направлена ​​на повышение прозрачности приема в профессиональные лицеи КР,",
         "description": "Feature description"
     },
     "pages.home.features.shared.title": {
-        "message": "Явная переиспользуемость",
+        "message": "Колледж",
         "description": "Feature title"
     },
     "pages.home.features.shared.description": {
-        "message": "Сохраняется баланс между DRY и локальной кастомизацией",
+        "message": "Информационная система «Абитуриент Online – КООZ» предоставляет абитуриентам возможность в электронном виде участвовать в конкурсах на поступление в организации среднего профессионального образования КР.",
         "description": "Feature description"
     },
     "pages.home.concepts.title": {
@@ -68,7 +68,7 @@
         "description": "Scheme"
     },
     "pages.home.companies.using": {
-        "message": "Компании, использующие методологию",
+        "message": "Подключенные системы ",
         "description": "Companies using methodology"
     },
     "pages.home.companies.add_me": {
@@ -204,11 +204,11 @@
         "description": "The text on a button to send feedback"
     },
     "features.hero.tagline": {
-        "message": "Архитектурная методология для фронтенд проектов",
+        "message": "Портала инструкций по образовательным информационным системам",
         "description": "Architectural methodology for frontend projects"
     },
     "features.hero.get_started": {
-        "message": "Ознакомиться",
+        "message": "Инструкция",
         "description": "Get Started"
     },
     "features.hero.examples": {

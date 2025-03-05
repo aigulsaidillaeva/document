@@ -6,7 +6,7 @@ const navbar = {
     logo: {
         alt: "logo",
         // FIXME: Сделать под SVG позднее
-        src: "img/brand/logo-primary.png",
+        src: "https://bilim.gov.kg/assets/apple-touch-icon.png",
     },
     items: [
         // left
@@ -30,31 +30,36 @@ const navbar = {
             to: "/examples",
             position: "left",
         },
-        // right
         {
-            type: "docsVersionDropdown",
-            position: "right",
-            dropdownActiveClassDisabled: true,
-            dropdownItemsAfter: [
-                {
-                    to: "https://feature-sliced.github.io/featureslices.dev/v1.0.html",
-                    label: "v1.0",
-                },
-                {
-                    to: "https://feature-sliced.github.io/featureslices.dev/v0.1.html",
-                    label: "v0.1",
-                },
-                {
-                    to: "https://github.com/feature-sliced/documentation/tree/rc/feature-driven",
-                    label: "feature-driven",
-                },
-                {
-                    to: "/versions",
-                    // TODO: (i18n) Add translation
-                    label: "All versions",
-                },
-            ],
+            label: "❓ FAQ", // Новый раздел
+            to: "/faq", // Укажи путь к FAQ
+            position: "left",
         },
+        // right
+        // {
+        //     type: "docsVersionDropdown",
+        //     position: "right",
+        //     dropdownActiveClassDisabled: true,
+        //     dropdownItemsAfter: [
+        //         {
+        //             to: "https://feature-sliced.github.io/featureslices.dev/v1.0.html",
+        //             label: "v1.0",
+        //         },
+        //         {
+        //             to: "https://feature-sliced.github.io/featureslices.dev/v0.1.html",
+        //             label: "v0.1",
+        //         },
+        //         {
+        //             to: "https://github.com/feature-sliced/documentation/tree/rc/feature-driven",
+        //             label: "feature-driven",
+        //         },
+        //         {
+        //             to: "/versions",
+        //             // TODO: (i18n) Add translation
+        //             label: "All versions",
+        //         },
+        //     ],
+        // },
         {
             type: "localeDropdown",
             position: "right",
@@ -65,18 +70,18 @@ const navbar = {
                 },
             ],
         },
-        {
-            href: DISCORD,
-            position: "right",
-            className: "ext-link discord",
-            "aria-label": "Discord community server",
-        },
-        {
-            href: GITHUB_DOCS,
-            position: "right",
-            className: "ext-link github",
-            "aria-label": "GitHub repository",
-        },
+        // {
+        //     href: DISCORD,
+        //     position: "right",
+        //     className: "ext-link discord",
+        //     "aria-label": "Discord community server",
+        // },
+        // {
+        //     href: GITHUB_DOCS,
+        //     position: "right",
+        //     className: "ext-link github",
+        //     "aria-label": "GitHub repository",
+        // },
     ],
 };
 

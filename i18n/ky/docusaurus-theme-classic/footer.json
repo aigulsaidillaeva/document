@@ -1,0 +1,66 @@
+{
+    "link.title.Specs": {
+        "message": "Кыргыз Республикасынын Билим берүү жана илим министрлиги",
+        "description": "The title of the footer links column with title=Specs in the footer"
+    },
+    "link.title.Community": {
+        "message": "Башкы бет",
+        "description": "The title of the footer links column with title=Community in the footer"
+    },
+    "link.title.More": {
+        "message": "Кыргыз Республикасынын Билим берүү жана илим министрлигине караштуу «Санариптик билим берүү борбору» тарабынан иштелип чыккан © Бардык укуктар корголгон",
+        "description": "The title of the footer links column with title=More in the footer"
+    },
+    "link.item.label.Documentation": {
+        "message": "Документация",
+        "description": "The label of footer link with label=Документация linking to /docs"
+    },
+    "link.item.label.Community": {
+        "message": "Жамаат",
+        "description": "The label of the footer link with label=Community linking to /community"
+    },
+    "link.item.label.Help": {
+        "message": "Жардам",
+        "description": "The label of the footer link with label=Help linking to /nav"
+    },
+    "link.item.label.Discussions": {
+        "message": "Талкуулар",
+        "description": "The label of footer link with label=Обсуждения linking to https://github.com/feature-sliced/documentation/discussions"
+    },
+    "link.item.label.License": {
+        "message": "",
+        "description": "The label of footer link with label=License linking to LICENSE"
+    },
+    "link.item.label.Contribution Guide (RU)": {
+        "message": "",
+        "description": "The label of footer link with label=Contribution Guide (RU) linking to CONTRIBUTING.md"
+    },
+    "link.item.label.Discord": {
+        "message": "",
+        "description": "The label of footer link with label=Discord linking to https://discord.com/invite/S8MzWTUsmp"
+    },
+    "link.item.label.Telegram": {
+        "message": "",
+        "description": "The label of footer link with label=Telegram linking to https://t.me/feature_sliced"
+    },
+    "link.item.label.Twitter": {
+        "message": "",
+        "description": "The label of footer link with label=Twitter linking to https://twitter.com/feature_sliced"
+    },
+    "link.item.label.Open Collective": {
+        "message": "",
+        "description": "The label of footer link with label=Open Collective linking to https://opencollective.com/feature-sliced"
+    },
+    "link.item.label.YouTube": {
+        "message": "",
+        "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/c/FeatureSlicedDesign"
+    },
+    "link.item.label.GitHub": {
+        "message": "",
+        "description": "The label of footer link with label=GitHub linking to https://github.com/feature-sliced"
+    },
+    "copyright": {
+        "message": "",
+        "description": "The footer copyright"
+    }
+}

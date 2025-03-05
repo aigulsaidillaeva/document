@@ -4,11 +4,11 @@
         "description": "The title in the navbar"
     },
     "item.label.🛠 Examples": {
-        "message": "🛠 Примеры",
+        "message": "🏬 Другое",
         "description": "Navbar item with label Examples"
     },
     "item.label.📖 Docs": {
-        "message": "📖 Документация",
+        "message": "🏢 Детский сад",
         "description": "Navbar item with label Docs"
     },
     "item.label.🔎 Intro": {
@@ -36,7 +36,7 @@
         "description": "Navbar item with label About"
     },
     "item.label.💫 Community": {
-        "message": "💫 Сообщество",
+        "message": "🏫 Школа",
         "description": "Navbar item with label Community"
     },
     "item.label.❔ Help": {
@@ -44,7 +44,7 @@
         "description": "Navbar item with label Help"
     },
     "item.label.📝 Blog": {
-        "message": "📝 Блог",
+        "message": "🏬 Проф.образование",
         "description": "Navbar item with label Blog"
     }
 }

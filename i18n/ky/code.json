@@ -1,0 +1,118 @@
+{
+    "pages.home.features.title": {
+        "message": "Өмүрлүк жагдайлар үчүн мамлекеттик кызматтар жана сервистер",
+        "description": "Features"
+    },
+    "pages.home.features.logic.title": {
+        "message": "Бала бакча",
+        "description": "Feature title"
+    },
+    "pages.home.features.logic.description": {
+        "message": "Бала бакчаларга балдарды кабыл алуу боюнча маалыматтык система.",
+        "description": "Feature description"
+    },
+    "pages.home.features.adaptability.title": {
+        "message": "Мектеп",
+        "description": "Feature title"
+    },
+    "pages.home.features.adaptability.description": {
+        "message": "Кыргыз Республикасында балдарды мектепке кабыл алуу боюнча маалыматтык система.",
+        "description": "Feature description"
+    },
+    "pages.home.features.debt.title": {
+        "message": "Кесиптик-техникалык окуу жайы",
+        "description": "Feature title"
+    },
+    "pages.home.features.debt.description": {
+        "message": "«Абитуриент Online – БКББ» маалыматтык системасы Кыргыз Республикасында кесиптик лицейлерге кабыл алуу процессинин ачыктыгын жогорулатууга багытталган.",
+        "description": "Feature description"
+    },
+    "pages.home.features.shared.title": {
+        "message": "Колледж",
+        "description": "Feature title"
+    },
+    "pages.home.features.shared.description": {
+        "message": "«Абитуриент Online – КООZ» маалыматтык системасы талапкерлерге Кыргыз Республикасынын орто кесиптик билим берүү уюмдарына электрондук түрдө тапшырууга мүмкүнчүлүк берет.",
+        "description": "Feature description"
+    },
+    "pages.home.concepts.title": {
+        "message": "Концепциялар",
+        "description": "Concepts"
+    },
+    "pages.home.concepts.public.title": {
+        "message": "Ачык API",
+        "description": "Concept title"
+    },
+    "pages.home.concepts.public.description": {
+        "message": "Ар бир модулдун жогорку деңгээлде өзүнүн ачык API декларациясы болушу керек.",
+        "description": "Concept description"
+    },
+    "pages.home.concepts.isolation.title": {
+        "message": "О izolция",
+        "description": "Concept title"
+    },
+    "pages.home.concepts.isolation.description": {
+        "message": "Модуль ошол эле катмардагы же андан жогору турган башка модулдарга түздөн-түз көз каранды болбошу керек.",
+        "description": "Concept description"
+    },
+    "pages.home.concepts.needs.title": {
+        "message": "Муктаждыктарды түшүнүү",
+        "description": "Concept title"
+    },
+    "pages.home.concepts.needs.description": {
+        "message": "Бизнес жана колдонуучунун муктаждыктарына басым жасоо.",
+        "description": "Concept description"
+    },
+    "pages.home.scheme.title": {
+        "message": "Схема",
+        "description": "Scheme"
+    },
+    "pages.home.companies.using": {
+        "message": "Туташтырылган системалар",
+        "description": "Companies using methodology"
+    },
+    "pages.home.companies.add_me": {
+        "message": "Бул методология сиздин компанияда колдонулуп жатабы?",
+        "description": "Methodology is used in your company?"
+    },
+    "pages.home.companies.tell_us": {
+        "message": "Бизге кабарлаңыз",
+        "description": "Tell us"
+    },
+    "features.feedback-badge.label": {
+        "message": "Документация боюнча пикириңизди бөлүшүңүз 🤙",
+        "description": "Feedback share button label"
+    },
+    "features.feedback-badge.url": {
+        "message": "https://forms.gle/7p4anU2shHAzmfqc8",
+        "description": "Feedback share form url"
+    },
+    "features.hero.tagline": {
+        "message": "Билим берүү маалыматтык системалары боюнча нускамалар порталы",
+        "description": "Architectural methodology for frontend projects"
+    },
+    "features.hero.get_started": {
+        "message": "Нускама",
+        "description": "Get Started"
+    },
+    "features.hero.examples": {
+        "message": "Мисалдар",
+        "description": "Examples"
+    },
+    "features.hero.previous": {
+        "message": "Мурунку версия",
+        "description": "Previous version"
+    },
+    "theme.NotFound.title": {
+        "message": "Барак табылган жок",
+        "description": "The title of the 404 page"
+    },
+    "theme.NotFound.p1": {
+        "message": "Тилекке каршы, сиз издеген баракчаны таба алган жокпуз.",
+        "description": "The first paragraph of the 404 page"
+    },
+    "theme.NotFound.p2": {
+        "message": "Эгер сизге бул барак маанилүү болсо, сайттын ээсине байланышып, иштебей калган шилтеме жөнүндө билдирүү бериңиз.",
+        "description": "The 2nd paragraph of the 404 page"
+    }
+}

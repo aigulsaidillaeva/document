@@ -10,10 +10,9 @@ export function Hero() {
     return (
         <header className={clsx("hero hero--primary", styles.heroBanner)}>
             <div className="container">
-                <h1 className="hero__title">{siteConfig.title}</h1>
-                <p className="hero__subtitle">
+                <h1 className="hero__title">
                     {translate({ id: "features.hero.tagline" })}
-                </p>
+                </h1>
                 <div className="button-group">
                     <Link
                         className="button button--primary button--lg"
@@ -33,8 +32,8 @@ export function Hero() {
                         className={styles.link}
                         to="https://feature-sliced.github.io/featureslices.dev/v1.0.html"
                     >
-                        {translate({ id: "features.hero.previous" })}{" "}
-                        (feature-slices@v1)
+                        {/* {translate({ id: "features.hero.previous" })}{" "}
+                        (feature-slices@v1) */}
                     </Link>
                 </div>
             </div>

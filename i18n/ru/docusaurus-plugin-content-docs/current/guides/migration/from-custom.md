@@ -181,6 +181,7 @@ export function ProductPage(props) {
                   </details>
             </li>
       </ul>
+      
 </details>
 
 ## Шаг 3. Устраните кросс-импорты между страницами {#tackle-cross-imports-between-pages}
