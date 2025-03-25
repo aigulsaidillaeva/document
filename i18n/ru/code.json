@@ -36,23 +36,23 @@
         "description": "Feature description"
     },
     "pages.home.concepts.title": {
-        "message": "Концепции",
+        "message": "Наши цели",
         "description": "Concepts"
     },
     "pages.home.concepts.public.title": {
-        "message": "Public API",
-        "description": "Concept title"
+        "message": "Доступность",
+        "description": "Обеспечить доступность и понимание инструкций для различных категорий пользователей."
     },
     "pages.home.concepts.public.description": {
-        "message": "Каждый модуль должен иметь на верхнем уровне декларацию своего публичного API",
+        "message": "Обеспечить доступность и понимание инструкций для различных категорий пользователей.",
         "description": "Concept description"
     },
     "pages.home.concepts.isolation.title": {
-        "message": "Изоляция",
+        "message": "Пошаговые инструкции",
         "description": "Concept title"
     },
     "pages.home.concepts.isolation.description": {
-        "message": "Модуль не должен зависеть напрямую от других модулей того же слоя или вышележаших слоев",
+        "message": "Предоставить пошаговые инструкции по использованию образовательных платформ.",
         "description": "Concept description"
     },
     "pages.home.concepts.needs.title": {
@@ -60,7 +60,7 @@
         "description": "Concept title"
     },
     "pages.home.concepts.needs.description": {
-        "message": "Ориентирование на потребности бизнеса и пользователя",
+        "message": "Решать часто возникающие проблемы пользователей",
         "description": "Concept description"
     },
     "pages.home.scheme.title": {
@@ -80,23 +80,23 @@
         "description": "Tell us"
     },
     "pages.examples.title": {
-        "message": "Примеры",
+        "message": "Наши программы",
         "description": "Page title"
     },
     "pages.examples.subtitle": {
-        "message": "Список сайтов, сделанных людьми с FSD",
+        "message": "",
         "description": "Page subtitle"
     },
     "pages.examples.add_me.title": {
-        "message": "Добавить пример",
+        "message": "",
         "description": "Request to add example"
     },
     "pages.examples.repo.title": {
-        "message": "Репозиторий",
+        "message": "",
         "description": "Examples repository label"
     },
     "pages.examples.versions": {
-        "message": "См. также список версий",
+        "message": "",
         "description": "Versions reminder"
     },
     "pages.versions.title": {

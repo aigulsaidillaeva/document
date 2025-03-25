@@ -25,7 +25,7 @@ function ExamplesPage() {
                             target="_blank"
                             rel="noreferrer noopener"
                         >
-                            🙏{" "}
+                            {" "}
                             {translate({ id: "pages.examples.add_me.title" })}
                         </a>
                         <a

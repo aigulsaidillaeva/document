@@ -8,7 +8,7 @@
         "description": "The label for category 🚀  Get Started in sidebar getstartedSidebar"
     },
     "sidebar.guidesSidebar.category.🎯  Guides": {
-        "message": "🎯  Гайды",
+        "message": "  Детский сад",
         "description": "The label for category 🎯  Guides in sidebar getstartedSidebar"
     },
     "sidebar.referenceSidebar.category.📚  Reference": {
@@ -28,15 +28,15 @@
         "description": "The label for category Promote in sidebar aboutSidebar"
     },
     "sidebar.guidesSidebar.category.Examples": {
-        "message": "Примеры",
+        "message": "Вход на платформу",
         "description": "The label for category Examples in sidebar guidesSidebar"
     },
     "sidebar.guidesSidebar.category.Migration": {
-        "message": "Миграция",
+        "message": "Подача уведомления",
         "description": "The label for category Migration in sidebar guidesSidebar"
     },
     "sidebar.guidesSidebar.category.Tech": {
-        "message": "Технологии",
+        "message": "Проверка и одобрение",
         "description": "The label for category Tech in sidebar guidesSidebar"
     },
     "sidebar.referenceSidebar.category.Units": {

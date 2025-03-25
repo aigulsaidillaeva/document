@@ -43,21 +43,7 @@ export default function HomePage() {
                         />
                     ))}
                 </Section>
-                <Section
-                    title={translate({ id: "pages.home.scheme.title" })}
-                    rowClass={styles.scheme}
-                >
-                    {/**
-                     *  NOTE: Set fixed height for correct alignment from mobile devices
-                     *  @see https://t.me/c/1463227827/197935
-                     *  NOTE: Cannot be used as native img because of ideal-image plugin preprocessing
-                     */}
-                    <Image
-                        className={styles.schemeImg}
-                        img={imgScheme}
-                        alt="feature-sliced-scheme,themed--scheme"
-                    />
-                </Section>
+
                 <Companies />
             </main>
         </Layout>
